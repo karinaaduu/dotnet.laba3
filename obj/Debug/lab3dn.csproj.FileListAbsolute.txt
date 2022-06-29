@@ -1,0 +1,7 @@
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\bin\Debug\lab3dn.exe.config
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\bin\Debug\lab3dn.exe
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\bin\Debug\lab3dn.pdb
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\obj\Debug\lab3dn.csproj.AssemblyReference.cache
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\obj\Debug\lab3dn.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\obj\Debug\lab3dn.exe
+C:\Users\Карина\Desktop\кпі\dotnet\lab3dn\lab3dn\obj\Debug\lab3dn.pdb
